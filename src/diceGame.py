@@ -1,3 +1,5 @@
+# @author Soren Caraan
+
 import random
 
 x = 0
